@@ -1,35 +1,3 @@
-// const redSlider =document.getElementById("redslider");
-// const greenSlider =document.getElementById("greenslider");
-// const blueSlider =document.getElementById("blueslider"); //for link
-
-// const redvaluespan =document.getElementById("redvalue");
-// const greenvaluespan =document.getElementById("greenvalue");
-// const bluevaluespan =document.getElementById("bluevalue");
-
-// const colorBox = document.getElementById("color-box");
-// const copyBtn = document.getElementById("copyButton");
-// const inputtypeRGBValue = document.getElementById("input-type-value");
-
-
-// redSlider .addEventListener('input',updateColor);
-// greenSlider .addEventListener('input',updateColor);
-// blueSlider .addEventListener('input',updateColor);
-
-// function updateColor(){
-//     const  redvalue = redslider.value;
-//     const greenvalue = greenslider.value;
-//     const bluevalue = blueslider.value;
-
-
-
-//     console.log(redvalue,greenvalue,bluevalue);
-// };
-
-
-// updateColor();
-
-
-// Get references to all necessary HTML elements
 const colorBox = document.getElementById("color-box");
 const redSlider = document.getElementById("redSlider");
 const greenSlider = document.getElementById("greenSlider");
